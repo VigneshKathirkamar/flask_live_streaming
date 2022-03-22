@@ -8,3 +8,6 @@ pip3 install requirements.txt
 ```
 python3 app.py
 ```
+To do: 
+
+Set two buttons, namely "Start capture" and "Stop capture" 
